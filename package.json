@@ -1,5 +1,5 @@
 {
-    "name": "mongodb-api-deployed-on-heroku",
+    "name": "mongodb-api-deployed-on-render",
     "version": "1.0.0",
     "description": "my api development",
     "main": "index.js",
